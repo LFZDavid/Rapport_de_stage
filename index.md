@@ -55,3 +55,11 @@
    3. Ce que j'ai apporté a greentic
       - Docker
       - Mettre en place des tests unitaires et fonctionnels
+
+Dans le cadre de ces missions j'ai été amené à des couvrir ou a perfectionner diverses compétances.
+    - Manipulation de données/fichiers sous différents formats (JSON, CSV, XML)
+    - Génération dynamique de fichier PDF
+    - Utilisation de requêtes AJAX
+    - Gestion d'import et traitement de fichiers via formulaires (.jpg, .png, .csv, .xml)
+    - Analyse du fonctionnement d’une application/structure existante
+    - 
