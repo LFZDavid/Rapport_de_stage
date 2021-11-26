@@ -1,8 +1,7 @@
 # Index
 
 1. Contexte
-   Je m'appel David Cornacchia, je suis actuelement le parcours de formation Développeur d'application PHP Symfony en alternance.
-   J'effectue mon alternance eu sein de la société Greentic à Lyon. Mon travail consiste principalement au développement de module pour le CMS Prestashop qui est partielement basé (Back-Office) sur le Framework Symfony.
+   
 
 2. Problématique
    - Problématiques
@@ -20,10 +19,22 @@
 4. Missions
    1. Type de mission
       - Modules Prestashop (creation/amélioration)
-      - Upgrade module
+        - hreflang (génération JSON)
+        - Balises meta (SEO)
+        - Import/Export de produits (CSV, XML, JSON)
+        - Navigation a facette (AJAX)
+        - Personnalisation page perso (import fichiers image)
+        - Redirection 301
+        - Marketplace
+        - Génération de PDF
+        - Dropshipping
+        - BonusProduct
       - Maintenance
       - Recherche de bug
+      - Estimation migration application Symfony 2 => 5
+      - Export messages client vers logiciel de gestion (Interaction API)
       - Développement de scripts php
+        - Import produits
    2. Présentation d'une mission
 
 5. Bilan
@@ -33,6 +44,7 @@
       - Familiariser avec l'utilisation d'AJAX
       - Manipuler des données sous différentes formes (XML, CSV, JSON, Fichier, génération de PDF)
       - Gérer le versionning d'un projet (GIT)
+      - Serveur
    2. Ce qui m'a été utile
       - Rédiger les spécifications détaillées d'un projet
       - Conceptualiser une application complète en décrivant sa structure
