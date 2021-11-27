@@ -69,8 +69,28 @@ Il est donc nécessaire d'avoir une bonne connaissance de la structure de l'appl
 
 <div style="page-break-after: always;"></div>
 
-# Missions confiés
+# Missions
 ---
+
+## Organisation du travail
+
+Comme dans beaucoup d'agence, les tâches sont réparties sous formes tickets qui sont attribués à un ou plusieurs développeur.
+Chacun se voit donc attribué un certains nombre de tickets qui correspondent à une tâche précise.
+
+Pour la gestion de ces tickets, nous utilisons l'outil `Wrike`. Le développeur peut avec cet outils consulter la liste des tickets qui lui ont été attribuées.
+
+<img src="img/wrike_tasks_list.png" alt="wrike_tasks_lists">
+
+Chacun de ces tickets contient un certain nombre d'information sur le travail a effectuer :
+- Titre
+- Client/Projet
+- Description
+- Dates de début et de fin estimé
+- Estimation du temps nécessaire
+- Personnes a qui ce ticket a été attribué
+- etc...
+
+<img src="img/wrike_task_show.png" alt="wrike_task_show">
 
 ## Différentes technologies
 
@@ -92,13 +112,24 @@ Le module devait proposer notament :
 
 ### Gestion de projet
 
-A partir du cahier des charges le projet a été découpé en plusieurs "tickets". Pour la plupart, ces tickets correspondaient aux différentes sections des menus de configurations ou à une fonctionnalitée spécifique _( ex: page de gestion des transporteurs, affichage du nom du fournisseur sur la page produit )_.
+A partir du cahier des charges le projet a été découpé en plusieurs tickets. Pour la plupart, ces tickets correspondaient aux différentes sections des menus de configurations ou à une fonctionnalitée spécifique _( ex: page de gestion des transporteurs, affichage du nom du fournisseur sur la page produit )_.
 
-Chacuns des tickets à été attribué au différents développeurs au fur et a mesure du développement.
+<img src="img/gestion_projet.png" alt="gestion_projet">
 
-Une fois le développement de la branche terminée, elle était fusionnée à la branche principale après avoir fait l'objet de tests d'intégrations par le responsable du projet.
+Une fois le développement de la branche terminée, elle était fusionnée à la branche principale après avoir été validé par le responsable du projet _(review de code et test manuels)_.
+
+<img src="img/gestion_projet_pr.png" alt="gestion_projet_pr">
 
 ### Fonctionnalitées développées
+
+Au cours des 9 mois de développement de ce module, les fonctionnalités sur lesquelles j'ai été amené à travailler m'ont permis d'acquérir ou de perfectionner un certain nombre de compétences :
+
+- Analyse du fonctionnement d’une application/structure existante.
+- Intégration de fonctionnalités 
+- Manipulation de données/fichiers sous différents formats (JSON, CSV, XML, image) en PHP.
+- Génération dynamique de fichier PDF
+- Envoi et traitement de requêtes AJAX
+
 
 
 
