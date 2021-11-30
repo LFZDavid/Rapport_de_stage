@@ -124,6 +124,20 @@ Une fois le développement de la branche terminée, elle était fusionnée à la
 
 Au cours des 9 mois de développement de ce module, les fonctionnalités sur lesquelles j'ai été amené à travailler m'ont permis d'acquérir ou de perfectionner un certain nombre de compétences :
 
+| Contexte                            | Compétence                                                                              |
+| ----------------------------------- | --------------------------------------------------------------------------------------- |
+| Développement d'un module           | Analyse du fonctionnement d’une application/structure existante                         |
+| Profile fournisseur                 | Génération dynamique de fichier PDF                                                     |
+| Tableau de bord                     | Génération de graphique à partir de statistique de vente                                |
+| Message personnalisés               | Traitement de données HTML généré par l'utilisateur _(TinyMCE)_                         |
+| Import de produits                  | Manipulation de données/fichiers sous différents formats (JSON, CSV, XML, image) en PHP |
+| Pré-inscription                     | Préinscription d'un utilisateur                                                         |
+| Messagerie                          | System de messagerie _(coté fournisseur & client)_                                      |
+| Gestion des rôles utilisateur       | Formulaire AJAX                                                                         |
+| Navigation a facette (fournisseurs) | Filtres configurables, chargement du contenu asyncrone                                  |
+| Souscription                        | Script php : vérification de la validité de l'abonnement _(cron task)_                  |
+
+
 - Analyse du fonctionnement d’une application/structure existante.
 - Intégration de fonctionnalités 
 - Manipulation de données/fichiers sous différents formats (JSON, CSV, XML, image) en PHP.
