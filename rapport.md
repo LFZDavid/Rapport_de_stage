@@ -42,9 +42,9 @@ Dernière mise à jour : <strong>03/12/2021</strong>
 
 2. **Problématiques**
 
-   * Configurer un environement de développement
-
    * Développer une fonctionnalité dans une application éxistante
+
+   * Configurer un environement de développement
 
 
 3. **Missions**
@@ -64,6 +64,10 @@ Dernière mise à jour : <strong>03/12/2021</strong>
 
    * Ce que j'ai apporté 
 
+   * Conclusion 
+
+   * Après l'alternance 
+
 <div style="page-break-after: always;"></div>
 
 <div align="center">
@@ -81,7 +85,7 @@ J'ai commencé mon processus de reconversion professionnelle en 2018 en commenç
 
 A l'issue de ce parcours j'ai trouvé un emploi de développeur back-end Junior au sein de la société Greentic qui tend à s'orienter de plus en plus vers des projets utilisant le framework **Symfony**. 
 
-Mon désir de perfectionner mes compétences coïncidant avec la stragtégie d'évolution de la société, nous avons donc décidé de m'inscrire à ce parcours en alternance. 
+Mon désir de perfectionner mes compétences coïncidant avec la stragtégie d'évolution de la société, nous avons donc décidé de m'inscrire à parcours **Développeur d'application - PHP/Symfony** en alternance. 
 
 <div class="divider"></div>
 <img src="img/logos/greentic-logo.png" class="sub-chap-img"><br>
@@ -122,21 +126,22 @@ L'immersion en milieu professionnel m'a permise également de me familiariser av
 
 <img src="img/prob-logo.png" class="sub-chap-img"><br>
 Au cours de cette alternance j'ai été amené à devoir apporter une solution à plusieurs problématiques. 
-Parmis celles-ci, 
+Parmis celles-ci, les deux principales ont été :
 
 <div class="divider"></div>
 
 ## **Comment intégrer une nouvelle fonctionnalité à une application existante ?**
 
-Le développement de modules pour le CMS **Prestashop** composant la majeure partie de mes missions, je devais donc pour chacune d'elles, concevoir une solution qui permettrait d'intégrer une ou plusieurs nouvelles fonctionnalités, tout en veillant à ne pas perturber le **fonctionnement** ou la **maintenabilité** du reste de l'application.
+Le développement de modules pour le CMS **Prestashop** composait la majeure partie de mes missions.<br> 
+Il était donc nécessaire à pour chaque mission, de concevoir une solution qui permettrait d'intégrer une ou plusieurs nouvelles fonctionnalités, tout en veillant à ne pas perturber le **fonctionnement**  ou la **maintenabilité** de l'application.
 
-Il est donc nécessaire d'avoir une bonne **connaissance de la structure de l'application** afin d'orienter son développement de manière à respecter au maximum l'architecture de celle-ci pour l'implémentation de nouvelles fonctionnalités.
+Il est donc nécessaire d'avoir une bonne **connaissance de la structure de l'application** afin d'orienter son développement de manière à respecter l'architecture de celle-ci pour l'implémentation de nouvelles fonctionnalités.
 
 <div class="divider"></div>
 
 ## **Comment configurer efficacement un environement de développement ?**
 
-Dans le cadre de mon alternance j'ai été amené à travailler sur des applications web déjà existantes et utilisant des technologies plus ou moins récentes. 
+Dans le cadre de mon alternance j'ai été amené à travailler sur des applications web déjà existantes et utilisant des technologies plus ou moins anciennes. 
 
 Il était donc nécessaire à chaque fois, de pouvoir reproduire un **environement de développement** local le plus fidèle possible à l'**environement de production** (version PHP, MySql, Composer, NodeJs, etc...). 
 
@@ -154,7 +159,7 @@ Il était donc nécessaire à chaque fois, de pouvoir reproduire un **environeme
 ### **Attribution des tâches à effectuer**
 Comme dans beaucoup d'agences, les tâches sont réparties sous formes de **tickets** qui sont attribués à un ou plusieurs développeurs.
 
-Pour la gestion de ces **tickets**, nous utilisons l'outil `Wrike`. Le développeur peut avec cet outil consulter la liste des tickets qui lui ont été attribués.
+Pour la gestion de ces **tickets**, nous utilisons l'outil `Wrike`. Le développeur peut avec cet outil consulter la liste des tickets qui lui ont été attribués, ajouter des observations, renseigner la durée de développement, indiquer un status, etc...
 
 <div class="img-container">
    <img src="img/wrike_tasks_list.png" alt="wrike_tasks_lists">
@@ -208,9 +213,10 @@ L'une des plus importantes missions sur laquelle j'ai pu travailler est la conce
 
 Comme son nom l'indique ce module a pour rôle de créer une place de marché sur laquelle les utilisateurs peuvent proposer leurs propres produits.
 
-Le module se décompose en 3 parties :
-- Un menu de configuration du module dans le Back-Office natif du CMS
-- Un espace d'administration destiné aux vendeurs ( _CRM_ )
+Le module se décompose en 3 parties principales :
+- Un menu de configuration du module dans le Back-Office natif du CMS permettant l'extension de certains composant de Prestashop. 
+- Un espace d'administration destiné aux vendeurs ( _CRM_ ).
+   Gestion des produits, transporteurs, promos, etc...
 - Des fonctionnalités supplémentaires destinées à l'interactions entre les clients et les vendeurs ( _messagerie, avis, etc..._ ).
 
 <div style="page-break-after: always;"></div>
@@ -259,53 +265,57 @@ Au cours des 9 mois de développement de ce module, les fonctionnalités sur les
 </div>
 <img src="img/bilan.jpg" class="sub-chap-img"><br>
 
-A l'issue de mon parcours de formation, je suis en mesure de fournir une analyse sur les différentes compétences que j'ai pu acquérir ou perfectionner durant cette période.
+A l'issue de mon parcours de formation, il peut être intéressant de faire une analyse des différentes compétences que j'ai pu acquérir ou perfectionner durant cette période.
+
+<div class="divider"></div>
 
 ## **Ce que j'ai appris dans le cadre de mon travail**
-L'une des problématiques auquelles cette période d'alternance a répondu etait: *Comment intégrer une nouvelle fonctionnalitée a une applicationexistante ?* <br>
-Le développement de modules pour le CMS Prestashop à été l'occasion de travailler dans un contexte de contraintes techniques très poussé. <br>
-En effet, la structure du CMS Prestashop présente souvent une **structure complètement** différente d'une version à une autre.<br>
-Cela à donc été pour moi, l'occasion d'apprendre à **analyser et comprendre** le fonctionnement de chacune des structures sur lesquelles j'ai travaillé.
 
+### **Savoir comprendre le fonctionnement d’une application/structure existante**
+Travailler sur des projet comportant de **nombreuses contraintes technique**s m'a permis d'apprendre a **adapter** la conception d'une solution **aux besoins** du client mais également à ces contraintes.<br>
+J'ai donc pu grandement améliorer ma capacité à :
+- **Comprendre** et **analyse** le fonctionnement d'une structure
+- S'**adapter** à des contraintes techniques
+- Traduire les besoins/demandes d'un client en fonctionnalités
+- Adapter le développement en fonction des différents besoins et contraintes
 
-- **Traduire les besoins/demandes d'un client en fonctionnalités** <br>
-Mon responsable étant le principale interlocuteur des clients, la traduction des besoins en fonctionnalités est en grande partie faite avant que la tâche soit confiée au développeur. <br>
-J'ai donc eu beaucoup l'occasion d'assister a ce processus de conception et parfois même, de participer au perfectionnement.
+### **Compétences techniques**
+Ce contexte m'a également permit de me perfectionner d'un point de vu technique. J'ai pu ainsi me familiariser avec :
+- L'utilisation de requêtes **AJAX** _( front & back)_
+- Manipulation de données sous différents **formats** _( xml, csv, json, images)_
+- L'interaction avec des **services externes** _( API, CRM, etc... )_
 
-- **Savoir comprendre le fonctionnement d’une application/structure existante**
-Mon travail consitant principalement au développement de **modules** pour Prestashop, il est donc nécessaire d'accorder au préalable une attention particulière au **fonctionnement de la structure** du CMS.<br>
-J'ai donc pu améliorer ma capacité à **comprendre** et **analyser** le fonctionnement d'application et ainsi de mieux en mieux être capable de visualiser la meilleure façon d'implémenter une ou plusieurs nouvelles fonctionnalités.
-
-- **S'adapter à un contexte technique**
-
-
-
-Il m'est très souvent arrivé de devoir développer sur des anciennes version de Prestashop( _1.5_ et _1.6_) Cela m'a donc permis de me familiariser avec des anciennes version de 
-
-  - S'adapter à un contexte technique (version PHP, Prestashop, APIs, etc...)
-### **Gérer le versionning d'un projet**
-
-  - Gérer le versionning d'un projet (GIT)
-
-### **Se familiariser avec l'utilisation de requêtes AJAX**
-  - Se familiariser avec l'utilisation de requetes AJAX (front & back)
-
-### **Interagir avec défférents types de données**
-  - Interagir avec différents types de données (_.xml, .csv, .json, etc..._) et technologies ( _API, CRM, flux, etc..._ )
+<div style="page-break-after: always;"></div>
 
 ## **Ce que j'ai mis en pratique**
+J'ai également pu mettre en pratique un grand nombre de connaissances acquise dans le cadre du programme de formation.
 
-### Conceptualiser une application
-### Rédiger les spécifications détaillées d'un projet**
+- **Conceptualiser** une application complète en décrivant sa structure
+- Rédiger les spécifications détaillées d'un projet
+- Respecter les **bonnes pratiques** de développement en vigueur
+- Développement/consomation **API**
+- Mettre en place des **tests unitaires et fonctionnels**
+- Gérer le **versionning** d'un projet _( git )_
 
-  - Rédiger les spécifications détaillées d'un projet
-  - Conceptualiser une application complète en décrivant sa structure
-
-  - Respecter les bonnes pratiques de développement en vigueur
-  - Développement/consomation API
-  - Mettre en place des tests unitaires et fonctionnels
+<div class="divider"></div>
 
 ## **Ce que j'ai apporté**
-  - Savoir paramètrer un environement de développement (Docker)
 
+L'une des problématiques rencontrée au cours de cette période à été de pouvoir `configurer efficacement un environement de développement`.
+En effet, comme abordé plus tôt, j'ai été amené à travailler sur des applications **plus ou moins anciennes** utilisant une configurations particulières _( version/modules php, dépendances, etc... )_.<br> 
+Il était donc nécessaire de pouvoir **reproduire** de manière fidèle l'**environement** de production.<br>
+Au cours de mon parcours de formation mon mentor m'a recommandé de m'initier à l'utilisation de `Docker`. Ce qui m'a permis de beaucoup simplement répondre a cette **problématique**.<br>
+En accords avec le reste de l'équipe nous avons donc décider d'adopter cette solution pour un maximum de projet. <br>
+Ce qui nous permet aujourd'hui de pouvoir travailler sur des environement identiques aussi bien pour le développement que pour la production.
 
+<div style="page-break-after: always;"></div>
+
+## **Conclusion**
+
+En conclusion, je dirais que mon expérience au sien d'une agence ayant plus de 14 ans d'existance m'a permis de mieux comprendre l'évolution des technologies utilisées dans le domaine du développement web et ainsi être plus à l'aise avec leurs utilisations.<br>
+Il m'est aujourd'hui plus simple de comprendre le fonctionnement et l'utilisation des outils existant, qu'il soit récent ou plus anciens.
+
+<div class="divider"></div>
+
+## **Après l'alternance**
+A l'issue de ma période d'alternance, mon employeur m'a proposé un emploi au sein de l'entreprise. Greentic a pour projet de s'orienter de plus en plus vers l'utilisation de solution comme `Symfony` et `Sylius` pour les projets e-commerce. Je vais donc pouvoir me perfectionner d'avantage en tant que développeur sur ces technologies. 
