@@ -18,12 +18,29 @@
    .divider{
       height: 75px;
    }
+   .main-img{
+      margin-top: 15%;
+   }
+   .page-garde{
+      height:100%;
+      display:flex;
+      flex-direction:column;
+      justify-content: space-between;
+   }
+   .credential{
+      margin-top:300px;
+
+      /* margin-top:250px; */
+   }
 </style>
-<p style="margin-top: 70%;">
+<div class="page-garde">
+<img src="img/main.png" class="main-img">
+<p class="credential">
 Auteur : <strong>David Cornacchia</strong><br>
 Période : <strong>Octobre 2020 - Décembre 2021</strong><br>
-Dernière mise à jour : <strong>03/12/2021</strong>
+Dernière mise à jour : <strong>10/12/2021</strong>
 </p>
+</div>
 
 <div style="page-break-after: always;"></div>
 <div align="center">
