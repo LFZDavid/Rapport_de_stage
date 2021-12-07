@@ -29,8 +29,9 @@
    }
    .credential{
       margin-top:300px;
-
-      /* margin-top:250px; */
+   }
+   .bordered{
+      border-style: outset;
    }
 </style>
 <div class="page-garde">
@@ -47,6 +48,7 @@ Dernière mise à jour : <strong>10/12/2021</strong>
 
 # Sommaire
 </div>
+<img src="img/logo/../logos/path_157.png" class="sub-chap-img"><br>
 <div class="divider"></div>
 
 1. **Contexte**
@@ -93,19 +95,18 @@ Dernière mise à jour : <strong>10/12/2021</strong>
 </div>
 <div class="divider"></div>
 
-<img src="img/photo-david.jpg" class="sub-chap-img"><br>
+<img src="img/photo-david.jpg" class="sub-chap-img bordered"><br>
 
 ## Présentation
 Je m'appelle David Cornacchia, je suis actuellement le parcours de formation **Développeur d'application PHP Symfony** en alternance. 
 
 J'ai commencé mon processus de reconversion professionnelle en 2018 en commençant par diverses formations courtes en ligne afin de m'initier au développement web, puis j'ai suivi le parcours OpenClassroom **Prep'fullstack**.
 
-A l'issue de ce parcours j'ai trouvé un emploi de développeur back-end Junior au sein de la société Greentic qui tend à s'orienter de plus en plus vers des projets utilisant le framework **Symfony**. 
-
+A l'issue de ce parcours j'ai trouvé un emploi de développeur back-end Junior au sein de la société Greentic. 
 Mon désir de perfectionner mes compétences coïncidant avec la stragtégie d'évolution de la société, nous avons donc décidé de m'inscrire à parcours **Développeur d'application - PHP/Symfony** en alternance. 
 
 <div class="divider"></div>
-<img src="img/logos/greentic-logo.png" class="sub-chap-img"><br>
+<img src="img/logos/greentic-logo.png" class="sub-chap-img bordered"><br>
 
 ## Greentic
 Créée en 2007, **Greentic** est une agence web située à Lyon. 
@@ -129,7 +130,7 @@ L'un des objectifs de cette alternance était de pouvoir en paralèlle de ma for
 
 ### **Organisation**
 
-L'immersion en milieu professionnel m'a permise également de me familiariser avec les méthodes et l'**organisation du travail** au sein d'une agence web, comme par exemple :
+L'immersion en milieu professionnel avait également pour but de me familiariser avec les méthodes et l'**organisation du travail** au sein d'une agence web, comme par exemple :
 - la **répartition des tâches** en fonction des priorités et d'une **estimation de temps** 
 - l'organisation d'une **mise en production** d'une application web.
 
@@ -202,7 +203,7 @@ Chacun de ces **tickets** contient un certain nombre d'informations sur le trava
 
 <div style="page-break-after: always;"></div>
 
-<img src="img/tool-box.jpg" class="sub-chap-img"><br>
+<img src="img/tool-box.jpg" class="sub-chap-img bordered"><br>
 
 ## Différentes technologies
 <div class="divider"></div>
@@ -298,6 +299,7 @@ J'ai donc pu grandement améliorer ma capacité à :
 
 ### **Compétences techniques**
 Ce contexte m'a également permit de me perfectionner d'un point de vu technique. J'ai pu ainsi me familiariser avec :
+- Amélioration de ma maitrise du language **PHP**
 - L'utilisation de requêtes **AJAX** _( front & back)_
 - Manipulation de données sous différents **formats** _( xml, csv, json, images)_
 - L'interaction avec des **services externes** _( API, CRM, etc... )_
