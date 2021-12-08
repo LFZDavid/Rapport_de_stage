@@ -120,19 +120,24 @@ En tant que développeur **PHP/Symfony**, mon travail consistait principalement 
 <img src="img/target.jpg" class="sub-chap-img"><br> 
 
 ## Les objectifs
-<div class="divider"></div>
 
-### **Technique**
+Les objectifs de cette immersion en milieu professionnel étaient entre autres :
 
-L'un des objectifs de cette alternance était de pouvoir en paralèlle de ma formation, pouvoir mettre en pratique et perfectionner les compétences acquises dans le cadre de ma formation _( PHP, Symfony, conception, versionning, etc...)_ .
+**Mettre en pratique les compétences aqcuise dans le cadre du programme de formation.**
+- Gestion de projet
+- Conception de solution
+- Maitrise du framework **Symfony**
 
-<div class="divider"></div>
+**Perfectionner mes compétences**
+- Maitrise de **PHP**
+- AJAX
+- Versionning ( _Git_ )
 
-### **Organisation**
+**Me professionnaliser**
+- **Organisation** de projet ( _répartition des tâches_ )
+- Estimation du **temps de développement**
+- Mise en **production** d'une application
 
-L'immersion en milieu professionnel avait également pour but de me familiariser avec les méthodes et l'**organisation du travail** au sein d'une agence web, comme par exemple :
-- la **répartition des tâches** en fonction des priorités et d'une **estimation de temps** 
-- l'organisation d'une **mise en production** d'une application web.
 
 <div style="page-break-after: always;"></div>
 
